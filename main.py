@@ -12,6 +12,15 @@ weight=int(weight)
 print(type(age))
 print(type(weight))
 
+first_name = "Refilwe"
+last_name = "Kgwadi"
+full_name = first_name+last_name
+exam = "Haa"*5
+print("First name:", first_name)
+print("Last name:", last_name)
+print("Full Name:", full_name)
+print("String Multiplied 5 times gives this result:", exam)
+
 n1=35
 n2=20
 print("The addition is",n1+n2)
